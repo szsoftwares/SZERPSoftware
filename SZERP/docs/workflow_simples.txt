@@ -1,0 +1,42 @@
+﻿*******************************************************************************
+*
+* SZERP Sistema de ERP Simplificado
+*
+* Autores: Jorge 'SQUAD' Junior , Rodrigo 'ZeusJammer' Justo
+* 
+*******************************************************************************
+** PRECISA MELHOR ATUALIZAÇÃO DESTE TEXTO **
+** ISTO É SOMENTE UMA VERSÃO BÁSICA DO PROJETO **
+
+Ultima Atualização: 31/08/2013
+Por: Jorge
+
+Objetivos do software:
+
+Reunir num mesmo sistema que usuários (funcionários) utilizem de uma forma prática,
+simples e objetiva os dados relacionados a clientes, fornecedores, histórico de vendas,
+histórico de compras de cada cliente, atendiemento sob medida, personalização e outras
+funcionalidades que serão desenvolvidas conforme necessidade da empresa.
+
+Modulos Principais:
+
+- Cadastro de usuários
+- Cadastro de fornecedores
+- Cadastro de clientes
+- Cadastro de empresa
+- Messegens instantâneas
+- Web Browser Interno
+
+Modulos Opcionais:
+
+- Cadastro de vendas
+- Cadastro de contas
+- Cadastro de produtos
+
+Modulos Personaizados:
+
+(Dibasi Casa de Festas)
+
+- Eventos
+- Histórico
+- Orçamentos
